@@ -27,7 +27,7 @@ class _VideoAppState extends State<VideoApp> {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Video Demo',
+      title: 'Sintel',
       home: Scaffold(
         backgroundColor: Colors.transparent,
         body: Center(
